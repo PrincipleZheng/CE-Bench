@@ -103,8 +103,6 @@ python3 main.py --assess_cardinalities
   --ground_truth_file_location ./benchmarks/job-light/sql/job_light_true_cardinalities.csv
 ```
 
-## Updates
-
 Conditional incremental learning (i.e., initial learning of all films before 2013, newer films learn incremental)
 ```
 python3 main.py --create_ensemble
