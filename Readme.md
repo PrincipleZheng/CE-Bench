@@ -24,6 +24,9 @@ Requirements:
 Usage:
 cd mscn && python3 train.py --queries 100000 --epochs 100 job-light
 
+Reference:
+[learnedcadinalities](https://github.com/andreaskipf/learnedcardinalities) for the mscn model architechture and training.
+
 ## Acknowledgments
 
 Special thanks to the contributors of [AreCELearnedYet](https://github.com/sfu-db/AreCELearnedYet) for their work that inspired and informed this project.
